@@ -6,5 +6,3 @@ I did a change to push to git hub fr testing
 
 Modified hte file c 
 Another modification to c 
-
-another change
