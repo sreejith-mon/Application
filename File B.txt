@@ -2,3 +2,4 @@ This is File B
 This is the change 
 Another change
 change
+Anothere change for Squashmerge
